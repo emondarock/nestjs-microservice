@@ -1,0 +1,3 @@
+http-api-gateway/node_modules
+users-microservice/node_modules
+payments-microservice/node_modules
